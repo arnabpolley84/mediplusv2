@@ -1,0 +1,2 @@
+#!/bin/sh
+git --work-tree=/home/iz4epdblappa/public_html/ --git-dir=/home/iz4epdblappa/public_html/repo/mediplus.git/ checkout -f master
